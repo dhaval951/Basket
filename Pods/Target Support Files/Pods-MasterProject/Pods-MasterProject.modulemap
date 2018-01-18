@@ -1,0 +1,6 @@
+framework module Pods_MasterProject {
+  umbrella header "Pods-MasterProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
